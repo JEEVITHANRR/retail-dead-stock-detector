@@ -1,3 +1,5 @@
+<img width="1440" height="814" alt="Screenshot 2026-04-25 at 2 54 09 PM" src="https://github.com/user-attachments/assets/3e01fea4-47ce-4821-b163-6e2813fd4938" />
+<img width="1440" height="813" alt="Screenshot 2026-04-25 at 2 53 55 PM" src="https://github.com/user-attachments/assets/44428be4-f6b4-4f1b-9e72-842ee0f63858" />
 # 🏷️ Dead Stock Detector — Retail Inventory Intelligence
 
 An elegant, AI-powered retail analytics dashboard that identifies dead stock inventory, calculates capital at risk, and provides actionable markdown recommendations. Built with React and Vite, featuring a luxury gold-on-dark UI with animated tickers, floating cards, and risk scoring.
